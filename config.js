@@ -29,7 +29,7 @@ var config = {
         "咱俩一起上桥":"./imgs/qiao.png",
         "一起合影":"./imgs/hz.png",
         "你住院了":"./imgs/yk1.png",
-        "快快好起来":"./imgs/yk.png",
+        "快快好起来啊":"./imgs/yk.png",
 
 
     },
