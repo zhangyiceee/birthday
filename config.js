@@ -8,7 +8,6 @@ var config = {
         "今天很开心",
         "非常爱你",
         "太爱你了",
-        "今年暑假去张掖",
         "不要吃辣",
         "不要头疼",
         "不要生病",
@@ -26,7 +25,13 @@ var config = {
      */
     imgs: {
         "心爱的小可爱": "./imgs/xiaokeai.png",
-        // "今天是你的生日": "./imgs/birthday.jpg",
+        "今天是你的生日": "./imgs/birthday.jpg",
+        "咱俩一起上桥":"./imgs/qiao.png",
+        "一起合影":"./imgs/hz.png",
+        "你住院了":"./imgs/yk1.png",
+        "快快好起来":"./imgs/yk.png",
+
+
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
