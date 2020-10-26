@@ -9,6 +9,13 @@ var config = {
         "一起合影",
         "你住院了",
         "快快好起来啊",
+        "河边的你",
+        "河边的我俩",
+        "河边的我俩一起放风筝",
+        "你给我做的礼物哦",
+        "还有红帽子",
+        "在三福试衣服",
+        "记得和我一起到老",
         
     ],
     /**
@@ -27,6 +34,13 @@ var config = {
         "一起合影":"./imgs/hz.png",
         "你住院了":"./imgs/yk1.png",
         "快快好起来啊":"./imgs/yk.png",
+        "河边的你":"./imgs/河边.jepg",
+        "河边的我俩":"./imgs/womenlia.jepg",
+        "河边的我俩一起放风筝":"./imgs/fangfengzheng.jepg",
+        "你给我做的礼物哦":"./imgs/liwu.jepg",
+        "还有红帽子":"./imgs/hongmaozi.jepg",
+        "在三福试衣服":"./imgs/shiyifu.jepg",
+        "记得和我一起到老":"./imgs/yiqidaolap.jepg",
 
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
