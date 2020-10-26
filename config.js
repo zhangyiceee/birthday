@@ -40,7 +40,7 @@ var config = {
         "你给我做的礼物哦":"./imgs/liwu.png",
         "还有红帽子":"./imgs/hongmaozi.png",
         "在三福试衣服":"./imgs/shiyifu.png",
-        "记得和我一起到老":"./imgs/yiqidaolap.png",
+        "记得和我一起到老":"./imgs/yiqidaolao.png",
 
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
